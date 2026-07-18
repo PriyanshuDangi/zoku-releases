@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Zoku</title>
+        <!--
+          Sparkle auto-update feed. Intentionally empty until the first
+          notarized release. `scripts/release.sh` with ZOKU_SIGNED=1 runs
+          Sparkle's generate_appcast, which fills this in from the DMGs in
+          releases/ using your own EdDSA key. Do not hand-edit the <item>
+          entries it produces.
+        -->
+        <item>
+            <title>1.4</title>
+            <pubDate>Sat, 18 Jul 2026 13:50:12 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/PriyanshuDangi/zoku-releases/releases/download/v1.4/Zoku.dmg" length="22935432" type="application/octet-stream" sparkle:edSignature="5dKRDGOvs2Dd+Vdtpxnw3oKnQR2tAuIs3WEvPRLL62O1bb5IRKoK+jPeK1q7bggAIMJlsTeYjH/7fueKCPqrDw=="/>
+        </item>
+    </channel>
+</rss>
