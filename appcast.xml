@@ -10,12 +10,12 @@
           entries it produces.
         -->
         <item>
-            <title>2.0.2</title>
-            <pubDate>Wed, 05 Aug 2026 01:50:36 +0530</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+            <title>2.0.3</title>
+            <pubDate>Fri, 07 Aug 2026 02:27:10 +0530</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PriyanshuDangi/zoku-releases/releases/download/v2.0.2/Zoku.dmg" length="29413982" type="application/octet-stream" sparkle:edSignature="1zqz0vUIyztW6/nLvVvjHWWZWfAfhOSnn/o/Cp+pf4ki+kUbUho7d05oo6q/4i774ElKTviLykXLq2jox/iyCw=="/>
+            <enclosure url="https://github.com/PriyanshuDangi/zoku-releases/releases/download/v2.0.3/Zoku.dmg" length="29421023" type="application/octet-stream" sparkle:edSignature="IB/nfhtnpf1hr+PdiuxPKiNxPRVew/ktNYTZnvVAkaIhALbnxV2im6N0lY5t07SKXoY+1jPB8i/SXP11WTQiAQ=="/>
         </item>
         <item>
             <title>2.0.1</title>
