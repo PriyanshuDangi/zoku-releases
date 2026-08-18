@@ -10,6 +10,14 @@
           entries it produces.
         -->
         <item>
+            <title>2.0.9</title>
+            <pubDate>Tue, 18 Aug 2026 23:36:48 +0530</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/PriyanshuDangi/zoku-releases/releases/download/v2.0.9/Zoku.dmg" length="31387135" type="application/octet-stream" sparkle:edSignature="hhdW7hsnq7G3107EF4zRc33EukK+6NZyGrGS61VMZBcnWpvqc2Spl5BuR7OeX8vT8MYI1andxMKi2/gW2zQLCQ=="/>
+        </item>
+        <item>
             <title>2.0.8</title>
             <pubDate>Sun, 16 Aug 2026 12:59:08 +0530</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -24,14 +32,6 @@
             <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/PriyanshuDangi/zoku-releases/releases/download/v2.0.7/Zoku.dmg" length="29741415" type="application/octet-stream" sparkle:edSignature="sHmq4JkLVdpzEfs/6SmazetRxjx6eajdsJpHrXGjKnuJouM437NYdKXSRIpmonZDMKO9gsYkLvui3uzZY5/jDw=="/>
-        </item>
-        <item>
-            <title>2.0.4</title>
-            <pubDate>Wed, 12 Aug 2026 01:32:01 +0530</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PriyanshuDangi/zoku-releases/releases/download/v2.0.4/Zoku.dmg" length="29582605" type="application/octet-stream" sparkle:edSignature="syaQ8kwjKEfTBZh9K9jL/Pt/+NMab5sy9AErTEk5noiRx/3UHNuYLucR2VijWpdYhuwqzelkzyeewk0XxpvEDg=="/>
         </item>
     </channel>
 </rss>
